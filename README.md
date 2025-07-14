@@ -1,4 +1,4 @@
-# MHSMA-Sperm-Morphology-Analysis-Dataset-
+# MHSMA-Morphology-Analysis-Dataset-
 # 🧬 MHSMA Sperm Morphology Analysis Dataset
 
 ## 📌 Overview
